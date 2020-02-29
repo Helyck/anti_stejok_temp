@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae9ec6a1-992f-4c5f-b0c9-a3aa1af138cf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UdopgjfbcSkGvMyb37cOpVUcDq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae9ec6a1-992f-4c5f-b0c9-a3aa1af138cf" name="Default Changelist" comment="" />
+      <created>1575696017924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575696017924</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="389" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1582952340109">
+      <screen x="29" y="23" width="1411" height="877" />
+    </state>
+    <state x="389" y="296" key="com.intellij.ide.util.TipDialog/29.23.1411.877@29.23.1411.877" timestamp="1582952340109" />
+    <state x="399" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1576303907700">
+      <screen x="29" y="23" width="1411" height="877" />
+    </state>
+    <state x="399" y="213" width="670" height="676" key="search.everywhere.popup/29.23.1411.877@29.23.1411.877" timestamp="1576303907700" />
+  </component>
+</project>
